@@ -1,0 +1,17 @@
+{
+"status":"ok",
+"data":{
+    "jurisdictions": [
+          {"id":1,
+          "code":"AL",
+          "title":"Alabama"},
+           {"id":2,
+          "code":"AK",
+          "title":"Alaska"},          
+           {"id":3,
+          "code":"AZ",
+          "title":"Arizona"}
+          ]
+          }
+}
+          
