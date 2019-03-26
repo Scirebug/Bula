@@ -1,7 +1,6 @@
 {
 "status":"ok",
-"data":{
-    "jurisdictions": [
+"data": [
           {"id":1,
           "code":"AL",
           "title":"Alabama"},
@@ -12,5 +11,4 @@
           "code":"AZ",
           "title":"Arizona"}
           ]
-          }
 }
